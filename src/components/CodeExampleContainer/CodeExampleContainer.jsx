@@ -20,7 +20,7 @@ const CodeExampleContainer = () => {
   console.log(selectedTopic);
   return (
     <div className="CodeExampleContainer">
-      <h2>Examples</h2>
+      <h2 style={{ paddingTop: "20px" }}>Examples</h2>
       <menu>
         <CodeExample
           title={"Components"}
