@@ -1,0 +1,17 @@
+.CodeExampleContainer {
+  background-image: linear-gradient(90deg, #c6b1c9, transparent);
+  height: 40vh;
+  width: 80vw;
+  margin: auto;
+  border-radius: 20px;
+  color: #36454f;
+}
+
+.CodeExampleContainer h2 {
+  text-align: center;
+}
+
+.CodeExampleContainer menu {
+  display: flex;
+  gap: 5px;
+}

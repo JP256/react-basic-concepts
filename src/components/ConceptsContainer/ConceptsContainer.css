@@ -1,0 +1,9 @@
+.ConceptsContainer {
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  color: #36454f;
+  gap: 10px;
+}
